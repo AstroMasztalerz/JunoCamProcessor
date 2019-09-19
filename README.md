@@ -1,2 +1,2 @@
 # JunoCamProcessor
-Software to processs JunoCam raw images.
+Software to process JunoCam raw images.
